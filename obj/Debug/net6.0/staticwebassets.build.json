@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "g2DBsa39vN5BhsAl+6BxLudkO8Af1u4CiXfiLBPM9SA=",
+  "Source": "Dojo_Survery",
+  "BasePath": "_content/Dojo_Survery",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Dojo_Survery\\wwwroot",
+      "Source": "Dojo_Survery",
+      "ContentRoot": "C:\\Users\\Kelvin\\Desktop\\CSharp\\Assignments\\Dojo_Survery\\wwwroot\\",
+      "BasePath": "_content/Dojo_Survery",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Kelvin\\Desktop\\CSharp\\Assignments\\Dojo_Survery\\wwwroot\\css\\style.css",
+      "SourceId": "Dojo_Survery",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kelvin\\Desktop\\CSharp\\Assignments\\Dojo_Survery\\wwwroot\\",
+      "BasePath": "_content/Dojo_Survery",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
